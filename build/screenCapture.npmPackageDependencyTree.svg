@@ -1,0 +1,85 @@
+<svg height="1310" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1310" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">8 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ vantage@1.7.0 </tspan>
+<tspan x="10" y="90">  ├─┬ chalk@1.1.3 </tspan>
+<tspan x="10" y="106">  │ ├── ansi-styles@2.2.1 </tspan>
+<tspan x="10" y="122">  │ ├── escape-string-regexp@1.0.5 </tspan>
+<tspan x="10" y="138">  │ ├── has-ansi@2.0.0 </tspan>
+<tspan x="10" y="154">  │ └── supports-color@2.0.0 </tspan>
+<tspan x="10" y="170">  ├─┬ commander@2.8.1 </tspan>
+<tspan x="10" y="186">  │ └── graceful-readlink@1.0.1 </tspan>
+<tspan x="10" y="202">  ├── insubnet@0.0.8 </tspan>
+<tspan x="10" y="218">  ├── lodash@3.10.0 </tspan>
+<tspan x="10" y="234">  ├── native-promise-only@0.8.0-a </tspan>
+<tspan x="10" y="250">  ├─┬ socket.io@1.4.5 </tspan>
+<tspan x="10" y="266">  │ ├─┬ debug@2.2.0 </tspan>
+<tspan x="10" y="282">  │ │ └── ms@0.7.1 </tspan>
+<tspan x="10" y="298">  │ ├─┬ engine.io@1.6.8 </tspan>
+<tspan x="10" y="314">  │ │ ├─┬ accepts@1.1.4 </tspan>
+<tspan x="10" y="330">  │ │ │ ├─┬ mime-types@2.0.14 </tspan>
+<tspan x="10" y="346">  │ │ │ │ └── mime-db@1.12.0 </tspan>
+<tspan x="10" y="362">  │ │ │ └── negotiator@0.4.9 </tspan>
+<tspan x="10" y="378">  │ │ ├── base64id@0.1.0 </tspan>
+<tspan x="10" y="394">  │ │ ├─┬ engine.io-parser@1.2.4 </tspan>
+<tspan x="10" y="410">  │ │ │ ├── after@0.8.1 </tspan>
+<tspan x="10" y="426">  │ │ │ ├── arraybuffer.slice@0.0.6 </tspan>
+<tspan x="10" y="442">  │ │ │ ├── base64-arraybuffer@0.1.2 </tspan>
+<tspan x="10" y="458">  │ │ │ ├── blob@0.0.4 </tspan>
+<tspan x="10" y="474">  │ │ │ ├── has-binary@0.1.6 </tspan>
+<tspan x="10" y="490">  │ │ │ └── utf8@2.1.0 </tspan>
+<tspan x="10" y="506">  │ │ └─┬ ws@1.0.1 </tspan>
+<tspan x="10" y="522">  │ │   ├── options@0.0.6 </tspan>
+<tspan x="10" y="538">  │ │   └── ultron@1.0.2 </tspan>
+<tspan x="10" y="554">  │ ├─┬ has-binary@0.1.7 </tspan>
+<tspan x="10" y="570">  │ │ └── isarray@0.0.1 </tspan>
+<tspan x="10" y="586">  │ ├─┬ socket.io-adapter@0.4.0 </tspan>
+<tspan x="10" y="602">  │ │ └─┬ socket.io-parser@2.2.2 </tspan>
+<tspan x="10" y="618">  │ │   ├── debug@0.7.4 </tspan>
+<tspan x="10" y="634">  │ │   └── json3@3.2.6 </tspan>
+<tspan x="10" y="650">  │ └─┬ socket.io-parser@2.2.6 </tspan>
+<tspan x="10" y="666">  │   ├── benchmark@1.0.0 </tspan>
+<tspan x="10" y="682">  │   ├── component-emitter@1.1.2 </tspan>
+<tspan x="10" y="698">  │   └── json3@3.3.2 </tspan>
+<tspan x="10" y="714">  ├─┬ socket.io-client@1.4.5 </tspan>
+<tspan x="10" y="730">  │ ├── backo2@1.0.2 </tspan>
+<tspan x="10" y="746">  │ ├── component-bind@1.0.0 </tspan>
+<tspan x="10" y="762">  │ ├── component-emitter@1.2.0 </tspan>
+<tspan x="10" y="778">  │ ├─┬ engine.io-client@1.6.8 </tspan>
+<tspan x="10" y="794">  │ │ ├── component-inherit@0.0.3 </tspan>
+<tspan x="10" y="810">  │ │ ├── has-cors@1.1.0 </tspan>
+<tspan x="10" y="826">  │ │ ├── parsejson@0.0.1 </tspan>
+<tspan x="10" y="842">  │ │ ├── parseqs@0.0.2 </tspan>
+<tspan x="10" y="858">  │ │ ├── xmlhttprequest-ssl@1.5.1 </tspan>
+<tspan x="10" y="874">  │ │ └── yeast@0.1.2 </tspan>
+<tspan x="10" y="890">  │ ├── indexof@0.0.1 </tspan>
+<tspan x="10" y="906">  │ ├── object-component@0.0.3 </tspan>
+<tspan x="10" y="922">  │ ├─┬ parseuri@0.0.4 </tspan>
+<tspan x="10" y="938">  │ │ └─┬ better-assert@1.0.2 </tspan>
+<tspan x="10" y="954">  │ │   └── callsite@1.0.0 </tspan>
+<tspan x="10" y="970">  │ └── to-array@0.1.4 </tspan>
+<tspan x="10" y="986">  ├─┬ strip-ansi@3.0.1 </tspan>
+<tspan x="10" y="1002">  │ └── ansi-regex@2.1.1 </tspan>
+<tspan x="10" y="1018">  ├── vantage-auth-basic@1.0.0 </tspan>
+<tspan x="10" y="1034">  ├─┬ vorpal@1.0.5 </tspan>
+<tspan x="10" y="1050">  │ ├─┬ inquirer@0.9.0 </tspan>
+<tspan x="10" y="1066">  │ │ ├── cli-width@1.1.1 </tspan>
+<tspan x="10" y="1082">  │ │ ├─┬ figures@1.7.0 </tspan>
+<tspan x="10" y="1098">  │ │ │ └── object-assign@4.1.1 </tspan>
+<tspan x="10" y="1114">  │ │ ├─┬ readline2@0.1.1 </tspan>
+<tspan x="10" y="1130">  │ │ │ ├── mute-stream@0.0.4 </tspan>
+<tspan x="10" y="1146">  │ │ │ └─┬ strip-ansi@2.0.1 </tspan>
+<tspan x="10" y="1162">  │ │ │   └── ansi-regex@1.1.1 </tspan>
+<tspan x="10" y="1178">  │ │ ├─┬ run-async@0.1.0 </tspan>
+<tspan x="10" y="1194">  │ │ │ └─┬ once@1.4.0 </tspan>
+<tspan x="10" y="1210">  │ │ │   └── wrappy@1.0.2 </tspan>
+<tspan x="10" y="1226">  │ │ ├── rx-lite@2.5.2 </tspan>
+<tspan x="10" y="1242">  │ │ └── through@2.3.8 </tspan>
+<tspan x="10" y="1258">  │ └── minimist@1.2.0 </tspan>
+<tspan x="10" y="1274">  └─┬ vorpal-repl@1.1.8 </tspan>
+<tspan x="10" y="1290">    └── json-stringify-safe@5.0.1</tspan>
+</text>
+</svg>
