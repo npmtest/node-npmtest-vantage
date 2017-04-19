@@ -1,4 +1,7 @@
-# test coverage for  [vantage (v1.7.0)](https://github.com/dthree/vantage#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-vantage.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-vantage) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-vantage.svg)](https://travis-ci.org/npmtest/node-npmtest-vantage)
+# npmtest-vantage
+
+#### basic test coverage for  [vantage (v1.7.0)](https://github.com/dthree/vantage#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-vantage.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-vantage) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-vantage.svg)](https://travis-ci.org/npmtest/node-npmtest-vantage)
+
 #### CLI + SSH + REPL for Node
 
 [![NPM](https://nodei.co/npm/vantage.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/vantage)
